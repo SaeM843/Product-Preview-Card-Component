@@ -31,5 +31,15 @@ main {
 }
 
 .card-right {
-    padding: 25px;
+    padding: 30px;
+}
+
+.product-title {
+    color: hsl(228, 12%, 48%);
+    letter-spacing: 0.3rem;
+    margin-bottom: 30px;
+}
+
+.card-right > h1 {
+    font-family: "Fraunces", sans-serif;
 }
