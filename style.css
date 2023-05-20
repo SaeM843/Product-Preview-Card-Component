@@ -52,5 +52,20 @@ main {
 .product-discription {
     color: hsl(228, 12%, 48%);
     line-height: 1.7em;
-    
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.price > p {
+    font-family: "Fraunces", sans-serif;
+    color: hsl(158, 36%, 37%);
+    font-size: 2.5em;
+}
+
+.price > del {
+    color: hsla(228, 12%, 48%, 0.8);
 }
