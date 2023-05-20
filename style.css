@@ -40,11 +40,11 @@ main {
 .product-title {
     color: hsl(228, 12%, 48%);
     letter-spacing: 0.3rem;
-    margin-bottom: 30px;
 }
 
 .card-right > h1 {
     font-family: "Fraunces", sans-serif;
-    line-height: 2rem;
+    line-height: 1em;
     font-weight: 700;
+    font-size: 2.5em;
 }
