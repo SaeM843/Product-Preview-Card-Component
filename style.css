@@ -32,6 +32,9 @@ main {
 
 .card-right {
     padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .product-title {
