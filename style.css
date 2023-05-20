@@ -69,3 +69,17 @@ main {
 .price > del {
     color: hsla(228, 12%, 48%, 0.8);
 }
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: hsl(158, 36%, 37%);
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    gap: 15px;
+    font-size: 1.1em;
+    font-weight: bold;
+}
