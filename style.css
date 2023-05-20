@@ -42,4 +42,6 @@ main {
 
 .card-right > h1 {
     font-family: "Fraunces", sans-serif;
+    line-height: 2rem;
+    font-weight: 700;
 }
