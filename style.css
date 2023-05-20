@@ -48,3 +48,9 @@ main {
     font-weight: 700;
     font-size: 2.5em;
 }
+
+.product-discription {
+    color: hsl(228, 12%, 48%);
+    line-height: 1.7em;
+    
+}
